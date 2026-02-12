@@ -1,8 +1,8 @@
-# 🧬 Cervical Cancer Prediction: Pap
+# 🧬 Cancer Prediction: Pap
 
 # Smear Analysis
 
-This project explores the classification and analysis of cervical cells using the **SIPaKMeD
+This project explores the classification and analysis of cells using the **SIPaKMeD
 dataset**. By combining traditional **Handcrafted Feature Engineering** with **Deep
 Learning-based automated extraction** , this research aims to improve the early detection of
 abnormalities in Pap smear images.
@@ -11,7 +11,7 @@ abnormalities in Pap smear images.
 
 Developed for the **Computational Vision** course at the University of Genoa , this study
 investigates how various feature extraction methods impact the accuracy of identifying
-pathological cervical cells.
+pathological cells.
 
 ```
 ● Professor: Francesca Odone
@@ -20,7 +20,7 @@ pathological cervical cells.
 ```
 ## 📂 Dataset: SIPaKMeD
 
-The dataset comprises **4,049 isolated images** of cervical cells, meticulously categorized into
+The dataset comprises **4,049 isolated images** of cells, meticulously categorized into
 
 ```
 Category Description
