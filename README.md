@@ -91,13 +91,18 @@ To run this project locally, follow these steps:
 
 ## 🚀 Quick Start
 
-To replicate the results, explore the Jupyter Notebooks included in the `notebooks/` directory:
+To replicate the results, explore the Jupyter Notebooks included in the `final-project/notebooks/` directory:
 
-1. **`notebooks/CV_final.ipynb`**: The main execution pipeline including deep feature extraction, clustering, and SVM classification.
-2. **`notebooks/firstoutput.ipynb`**: Contains initial visual analysis, data exploration, and cluster visualizations.
+1. **`final-project/notebooks/cv_final.ipynb`**: The main execution pipeline including deep feature extraction, clustering, and SVM classification.
+2. **`final-project/notebooks/first_output.ipynb`**: Contains initial visual analysis, data exploration, and cluster visualizations.
+3. **`final-project/notebooks/cv_project.ipynb`**: Additional project explorations.
 
 ## 📄 References & Documentation
 
 The foundational literature and the final project report can be found in the respective directories:
-- **`papers/`**: Contains the reference materials and research papers.
-- **`docs/`**: Contains the final detailed project report (`final-report.pdf`).
+- **`final-project/papers/`**: Contains the reference materials and research papers.
+- **`final-project/docs/`**: Contains the final detailed project report (`final-report.pdf`).
+
+## 📚 Assignments
+
+Lab assignments from the course can be found in the `assignments/` directory, including exercises on corner matching, 3D vision, optical flow, autoencoders, and object detection.
