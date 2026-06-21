@@ -4,3 +4,8 @@ scikit-image
 tensorflow
 matplotlib
 jupyterlab
+opencv-python
+pandas
+scipy
+Pillow
+ipython

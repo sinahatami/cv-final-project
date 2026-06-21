@@ -105,4 +105,15 @@ The foundational literature and the final project report can be found in the res
 
 ## 📚 Assignments
 
-Lab assignments from the course can be found in the `assignments/` directory, including exercises on corner matching, 3D vision, optical flow, autoencoders, and object detection.
+Lab assignments from the course can be found in the `assignments/` directory. Each lab focuses on a core computational vision topic:
+
+- **Lab 1: Corner Matching** (`assignments/lab1_corner_matching/`)
+  - Feature extraction and matching using Harris Corners and SIFT.
+- **Lab 2: 3D Vision** (`assignments/lab2_3d_vision/`)
+  - Exploring 3D vision concepts and OpenCV geometric transformations.
+- **Lab 3: Optical Flow** (`assignments/lab3_optical_flow/`)
+  - Motion estimation, change detection, and optical flow visualizations.
+- **Lab 4: Autoencoders** (`assignments/lab4_autoencoder/`)
+  - Implementing autoencoders for dimensionality reduction and image reconstruction.
+- **Lab 5: Object Detection** (`assignments/lab5_object_detection/`)
+  - Utilizing Haar Cascades for face and object detection.
